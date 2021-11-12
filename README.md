@@ -61,10 +61,7 @@ If you visit your fork on GitHub, you should now see that _you've_ made the most
 recent commit, and your solution will be present in the files.
 
 ## Conclusion
-
-Congratulations! You wrote your first HTML tag. Now you can use your knowledge
-of this basic building block to learn more HTML tags and see how they work with
-each other to create an entire HTML document structure.
+Congratulatons! You wrote your first HTML tag. Now you can use your knowledge of this basic building block to learn more HTML tags and see how they work with each other to create an entire HTML document structure.
 
 ## Resources
 
